@@ -33,9 +33,6 @@ The crime prediction models exhibit low accuracy, prompting a focus on the hotsp
 Data cleanup, analysis, and modeling have provided insights into crime patterns in Vancouver. Identification of high-crime areas and trends, such as the prevalence of Theft from Vehicles, was achieved. While crime prediction models fell short of expectations, the hotspot prediction model, particularly using the Gaussian Naive Bayes algorithm, displayed promising accuracy for crime prevention and control.
 
 ---
-
-**Readme for GitHub Repository: Crime_Prediction_Vancouver**
-
 ### Repository Contents:
 1. **Data:** Contains the raw and cleaned datasets used in the analysis.
 2. **Notebooks:** Jupyter notebooks detailing the step-by-step process of data analysis, model planning, and implementation.
