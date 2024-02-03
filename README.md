@@ -62,5 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Special thanks to the Vancouver Police Department for providing the dataset and the open-source community for valuable insights and tools.
 
 ---
-
-Feel free to customize the readme and project description according to your preferences and specific details about the project.
